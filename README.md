@@ -17,7 +17,7 @@
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SK4TES&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white">
 
 
-## what i use
+## What I use
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
