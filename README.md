@@ -1,8 +1,11 @@
 <a href="https://skate.wtf/"><img src="website.gif" alt="Gif loading..."></a>
 
 
-
-<img width="60%" align="right" src="https://activity-graph.herokuapp.com/graph?username=SK4TES&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SK4TES&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SK4TES&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sk4tes&theme=midnight-purple&hide_border=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=SK4TES&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 
 ## About Me
 - 14\.
