@@ -10,7 +10,7 @@
 - 14\.
 - self taught 3d artist and web developer.
 - currently studying high school.
-- i stole my name from a song i like.
+- i got the name "skate" from the song "I THINK - Tyler The Creator".
 - https://skate.wtf/ <-- my website.
 
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SK4TES&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white">
